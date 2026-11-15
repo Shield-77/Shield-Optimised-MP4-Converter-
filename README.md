@@ -1,5 +1,7 @@
 # SHIELD Optimised Converter
 
+**Codex was used to generate the code**
+
 Convertisseur de vidéos MP4 directement sur 3DS, conçu pour produire des fichiers légers destinés à [SHIELD MP4 Player](https://github.com/Shield-77/Shield-MP4-Player). Le code a été généré avec l'aide de Codex et l'application vise aussi la Old 3DS.
 
 ## Version actuelle
