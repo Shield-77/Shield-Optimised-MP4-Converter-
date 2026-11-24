@@ -4,7 +4,9 @@
 
 Convertisseur de vidéos MP4 directement sur 3DS, conçu pour produire des fichiers légers destinés à [SHIELD MP4 Player](https://github.com/Shield-77/Shield-MP4-Player). Le code a été généré avec l'aide de Codex et l'application vise aussi la Old 3DS.
 
-**D'ici 5 jours shield mp4 converter recevra une refonte majeur et aura une autre utilité qui ne concernera que l audio.**
+**D'ici 5 jours shield mp4 converter recevra une refonte majeur et aura une autre utilité qui ne concernera que l'audio.**
+
+**A été écrit le 24/11/2026 heure de paris**
 
 ## Version actuelle
 
