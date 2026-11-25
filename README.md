@@ -1,6 +1,12 @@
 # SHIELD Optimised Converter
 
-**Codex was used to generate the code**
+## Télécharger / Download
+
+**[ShieldOptimisedConverter.cia (v1.6.3)](https://github.com/Shield-77/Shield-Optimised-MP4-Converter-/releases/download/v1.6.3/ShieldOptimisedConverter.cia)** · [Toutes les releases](https://github.com/Shield-77/Shield-Optimised-MP4-Converter-/releases)
+
+Sur une 3DS modifiée, ouvrir FBI > Remote Install > Scan QR Code.
+
+<img src="docs/cia-qr.svg" width="220" alt="QR code FBI vers le CIA v1.6.3" />
 
 Convertisseur de vidéos MP4 directement sur 3DS, conçu pour produire des fichiers légers destinés à [SHIELD MP4 Player](https://github.com/Shield-77/Shield-MP4-Player). Le code a été généré avec l'aide de Codex et l'application vise aussi la Old 3DS.
 
@@ -28,3 +34,7 @@ Le code de v1.6.3 est dans [`source/`](source/) et [`include/`](include/). Le co
 Pour compiler, installer devkitPro/devkitARM et fournir une version 3DS de **FFmpeg** avec ses en-têtes et bibliothèques ; indiquer son chemin avec `FFMPEG_ROOT`. Obtenir aussi `makerom` et `bannertool` séparément (`MAKEROM`, `BANNERTOOL`). Le présent dépôt ne fournit pas les bibliothèques FFmpeg précompilées de l'ancien environnement : leurs options de compilation et le code source exact doivent être documentés avant redistribution. La compilation du CIA publié n'est donc pas reproductible à partir de ce seul dépôt.
 
 Le code original du convertisseur est sous [GPLv3](LICENSE). `minih264` et `minimp4` sont sous CC0, avec leurs avis dans [`include/`](include/). FFmpeg conserve sa licence propre, qui dépend des options de compilation ; voir [sa page officielle](https://ffmpeg.org/legal.html) et [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Le nom et les logos SHIELD restent l'identité de Shield-77 ; une adaptation doit être clairement indiquée.
+
+## Développement
+
+Le code a été généré avec l'aide d'OpenAI Codex, un assistant de programmation par IA. SHIELD-77 conçoit les fonctionnalités et teste les applications sur console lorsque possible.
