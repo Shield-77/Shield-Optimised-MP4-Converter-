@@ -14,6 +14,8 @@ Convertisseur de vidéos MP4 directement sur 3DS, conçu pour produire des fichi
 
 **A été écrit le 24/11/2026 heure de paris**
 
+Il s'agit d'une annonce de développement, pas d'une fonctionnalité déjà disponible. La release v1.6.3 demeure le convertisseur vidéo décrit ci-dessous.
+
 ## Version actuelle
 
 La dernière release est **[v1.6.3](https://github.com/Shield-77/Shield-Optimised-MP4-Converter-/releases/tag/v1.6.3)** (`ShieldOptimisedConverter.cia`). Cette version ajoute le choix français/anglais au démarrage et retire la musique de fond pour alléger le CIA et la charge CPU. Les textes plus anciens qui annoncent cinq pistes intégrées ne décrivent plus la version actuelle.
