@@ -1,5 +1,7 @@
 # SHIELD Optimised Converter
 
+**Provenance des binaires :** les archives FFmpeg historiques ne sont pas redistribuées dans ce dépôt ; leur correspondance avec les sources et les options du CIA publié reste à établir. Voir [le relevé commun des dépendances](https://github.com/Shield-77/Shield-MP3-downloader/blob/main/LICENSING_STATUS.md) et [les notices tierces](THIRD_PARTY_NOTICES.md).
+
 ## Télécharger / Download
 
 **[ShieldOptimisedConverter.cia (v1.6.3)](https://github.com/Shield-77/Shield-Optimised-MP4-Converter-/releases/download/v1.6.3/ShieldOptimisedConverter.cia)** · [Toutes les releases](https://github.com/Shield-77/Shield-Optimised-MP4-Converter-/releases)
